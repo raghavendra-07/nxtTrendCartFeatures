@@ -94,7 +94,7 @@ class App extends Component {
           cartList,
           addCartItem: this.addCartItem,
           removeCartItem: this.removeCartItem,
-          incrementCartItemQuantity: this.increaseCartItemQuantity,
+          incrementCartItemQuantity: this.incrementCartItemQuantity,
           decrementCartItemQuantity: this.decrementCartItemQuantity,
           removeAllCartItems: this.removeAllCartItems,
         }}
